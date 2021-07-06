@@ -1,1 +1,1 @@
-These are my assignments and files
+These are my assignments and files of the project
